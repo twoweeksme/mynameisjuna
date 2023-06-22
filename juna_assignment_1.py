@@ -20,3 +20,5 @@ cal.add(50)
 cal.add(60)
 
 print(cal.value)
+
+#수정을 한다면 반영을 어떻게 하지
